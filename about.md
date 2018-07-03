@@ -13,6 +13,7 @@ menu:
     identifier: _about
     url: "/about/"
     weight: 3
+    title: Présentation
   navigation:
     identifier: _about
     weight: 2

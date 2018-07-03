@@ -8,6 +8,7 @@ menu:
     identifier: _projects
     url: "/projects/"
     weight: 1
+    title: Projets
   navigation:
     identifier: _projects
     url: "/projects/"

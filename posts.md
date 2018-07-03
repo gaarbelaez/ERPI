@@ -9,6 +9,7 @@ menu:
     identifier: _posts
     url: "/posts/"
     weight: 2
+    title: Actualités
   navigation:
     identifier: _posts
     url: "/posts/"
