@@ -1,13 +1,9 @@
 ---
-title: Bienvenues au nouveau site du laboratoire ERPI
+title: 'Bienvenues '
 date: 2017-09-25 09:09:13 +0000
-related_posts:
-- _posts/2017-02-12-modern.md
-- _posts/2017-08-01-welcome.md
+related_posts: []
 sub_heading: Le nouveau site est en ligne
-tags:
-- Demo
-- Forestry
+tags: []
 layout: post
 banner_image: ''
 ---
