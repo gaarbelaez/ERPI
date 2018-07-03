@@ -9,7 +9,7 @@ menu:
   navigation:
     identifier: _contact
     url: "/contact/"
-    weight: 5
+    weight: 6
 ---
 ## Horaire d'accueil au publique
 

@@ -1,1 +1,10 @@
---- {}
+---
+footer:
+- identifier: _projects
+  url: "/projects/"
+  weight: 1
+  title: Publications
+navigation:
+- url: "/publications/"
+  weight: 1
+  title: Publications

@@ -13,6 +13,6 @@ menu:
   navigation:
     identifier: _posts
     url: "/posts/"
-    weight: 4
+    weight: 5
     title: Actualités
 ---
