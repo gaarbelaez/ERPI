@@ -79,5 +79,6 @@ fields:
   hidden: true
   default: home
 pages:
+- ouvrages.html
 - publications.html
 - index.md
