@@ -1,33 +1,26 @@
 ---
 title: Home
-banner_image: "/img/banner-ERPI.jpg"
+banner_image: "/img/banner.png"
 layout: landing-page
-
-heading: Laboratoire ERPI
+heading: ERPI
+partners:
+- "/uploads/2017/11/13/stem.png"
+- "/uploads/2017/11/13/UPenn_logo.png"
+- "/uploads/2017/11/13/nysed.png"
+services: []
 sub_heading: Equipe de Recherche sur les Processus Innovatifs
 textline: Equipe de Recherche sur les Processus Innovatifs
-
-services: []
-
-partners:
-- "/img/partenaires/UL.jpg"
-- "/img/partenaires/RNI.png"
-- "/img/partenaires/ICEEL.png"
-
 hero_button:
   text: Savoir plus
   href: "/about"
 show_news: true
 show_staff: false
-
 menu:
   navigation:
-    name: Home
     identifier: _index
     url: "/"
     weight: 1
 ---
-
 
 L’ERPI (Équipe de Recherche sur les Processus Innovatifs) est un des laboratoires de l'Université de Lorraine, labellisé Équipe d’Accueil (EA n° 3767) par le Ministère de l’Enseignement Supérieur et de la Recherche. L'ERPI est membre de la FR 2863 : Fédération de Recherche Jacques Villermaux pour la Mécanique, l'Energie, les Procédés (FR JV) et est rattaché au pole scientifique EMPP - Énergie, Mécanique, Procédés, Produits. Par ailleurs, les relations qu’entretient l’ENSGSI (Ecole de l'Innovation) avec ce laboratoire sont historiques.
 

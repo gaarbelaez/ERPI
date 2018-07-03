@@ -8,7 +8,8 @@ show_staff: true
 menu:
   navigation:
     identifier: _contact
-    weight: 4
+    url: "/contact/"
+    weight: 5
 ---
 ## Horaire d'accueil au publique
 
