@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/02/17/college-building.jpg"
+banner_image: "/img/varios/background-ERPI.jpg"
 heading: About ERPI
 sub_heading: Equipe de Recherche sur les Processus Innovatifs
 layout: landing-page
@@ -12,7 +12,7 @@ menu:
   footer:
     identifier: _about
     url: "/about/"
-    weight: 3
+    weight: 1
     title: Présentation
   navigation:
     identifier: _about

@@ -1,10 +1,10 @@
 ---
 footer:
-- identifier: _projects
-  url: "/projects/"
-  weight: 1
+- identifier: _publications
+  url: "/publications/"
+  weight: 2
   title: Publications
 navigation:
 - url: "/publications/"
-  weight: 1
+  weight: 3
   title: Publications

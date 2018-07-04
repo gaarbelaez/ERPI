@@ -1,12 +1,12 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/img/banner-ERPI2.jpg"
 layout: landing-page
 heading: ERPI
 partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+- "/img/partenaires/UL.jpg"
+- "/img/partenaires/RNI.png"
+- "/img/partenaires/ICEEL.png"
 services: []
 sub_heading: Equipe de Recherche sur les Processus Innovatifs
 textline: Equipe de Recherche sur les Processus Innovatifs
