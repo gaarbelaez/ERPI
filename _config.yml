@@ -1,7 +1,7 @@
 title: Laboratoire ERPI
 short_title: erpi
 description: Site web pour le Laboratoire ERPI 
-baseurl:
+baseurl: "/erpi"
 permalink: "/:path/"
 defaults:
   - scope:
