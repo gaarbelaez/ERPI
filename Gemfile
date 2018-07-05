@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem "rake", "~> 12"
 gem "jekyll" 
 #gem "github-pages", group: :jekyll_plugins
 
