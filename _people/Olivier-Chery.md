@@ -2,7 +2,7 @@
 layout: 'person'
 title: Olivier Chery
 sub_heading: Maitre de Conference
-date:  2018-03-04
+date:  2018-02-08
 thumbnail: "/img/people/Man.jpg"
 email: 'olivier.chery@univ-lorraine.fr'
 linkedin: ''

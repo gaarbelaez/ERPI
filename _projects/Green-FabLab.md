@@ -4,7 +4,7 @@ date: 2016-04-20 00:00:00 +0000
 categories: []
 description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
   Program for Canada'
-banner_image: "/uploads/2018/02/17/bridge3.jpg"
+banner_image: "img/projects/green-fablab/Banner-2.jpg"
 sub_heading: Greenfablab
 tags:
 - engineering

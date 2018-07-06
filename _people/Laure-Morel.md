@@ -1,7 +1,7 @@
 ---
 layout: 'person'
 title: Laure MOREL
-sub_heading: Directrice
+sub_heading: Directrice / Professeur des Universités
 date: 2018-01-01
 thumbnail: "/img/people/LM.jpg"
 email: ''
