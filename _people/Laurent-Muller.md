@@ -1,7 +1,7 @@
 ---
 layout: 'person'
 title: Laurent Muller
-sub_heading: Maître de Conférences
+sub_heading: Maitre de Conférence Associé
 date:  2018-03-04
 thumbnail: "/img/people/Laurent-Muller.jpg"
 email: ''
