@@ -5,7 +5,7 @@ sub_heading: Professeur des Universités
 date:  2018-01-02
 thumbnail: "/img/people/Mauricio-Camargo.jpg"
 email: ''
-linkedin: ''
+google-scholar: 'https://scholar.google.fr/citations?user=2o5hAtIAAAAJ&hl=fr'
 role:
 - staff
 - advisor

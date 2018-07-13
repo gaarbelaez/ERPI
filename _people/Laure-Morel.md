@@ -5,7 +5,7 @@ sub_heading: Directrice / Professeur des Universités
 date: 2018-01-01
 thumbnail: "/img/people/LM.jpg"
 email: ''
-linkedin: ''
+google-scholar: 'https://scholar.google.fr/citations?user=H5y9cUwAAAAJ&hl=fr'
 role:
 - staff
 ---

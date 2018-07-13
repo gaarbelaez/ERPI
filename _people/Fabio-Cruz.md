@@ -5,14 +5,18 @@ sub_heading: Ingenieure de Recherche
 date: 2018-04-03 10:00:44 +0000
 thumbnail: "/img/people/Fabio.jpg"
 email: ''
-linkedin: ''
+linkedin: https://www.linkedin.com/in/fabio-cruz/
+google-scholar: https://scholar.google.com/citations?user=8Cuoaf4AAAAJ&hl=es
+academia: https://univ-lorraine.academia.edu/FabioACruzS
+researchgate: https://www.researchgate.net/profile/Fabio_Cruz_Sanchez
+mendeley: https://www.mendeley.com/profiles/fabio-a-cruz-sanchez/
+
 role:
 - partner
 - board
 ---
 
-Holaa Soy Fabio!..
+Hola Soy Fabio!..
 
-Grady received his Ph.D in Mechanical Engineering from Stanford in 1978, and has worked with prestigious companies such as Boeing and Lockheed Martin.
+Grady received his Ph.D in Mechanical Engineering from Universidad Nacional de Colombia.
 
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
