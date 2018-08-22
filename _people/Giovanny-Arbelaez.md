@@ -6,6 +6,7 @@ date:  2018-03-04
 thumbnail: "/img/people/GA.jpg"
 email: 'giovanny.arbelaez-garces@univ-lorraine.fr'
 linkedin: ''
+google-scholar: 'https://scholar.google.fr/citations?user=qj178msAAAAJ&hl=en'
 role:
 - advisor
 - staff
