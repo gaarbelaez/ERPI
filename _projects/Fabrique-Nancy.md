@@ -1,7 +1,7 @@
 ---
 title: La Fabrique Nancy Grand Coeur
 date: 2018-02-25 19:07:50 +0000
-sub_heading: "Un démonstrateur partagé et réalisé avec le Grand Nancy: approche collaborative et conception par l'usage dans un projet d'EcoQuartier"
+sub_heading: "Un démonstrateur partagé avec le Grand Nancy"
 banner_image: "/img/projects/fabrique-nancy/Banner.png"
 
 tags:

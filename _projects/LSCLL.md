@@ -1,7 +1,7 @@
 ---
 title: Lorraine Smart City Living Lab
 date: 2018-02-25 19:07:50 +0000
-sub_heading: 'Human centered design in the electric vehicle era '
+sub_heading: 'Living lab Lorrain'
 banner_image: "/img/projects/LSCLL/Banner.jpg"
 
 tags:
@@ -38,4 +38,4 @@ Pages des projets en mode Living Lab ou Fab living lab
 
 Nos productions, conférences, salons, séminaires scientifiques, rapports de recherche et d'expertise sur les modes Living Lab & Fab Living Lab
 
-Nos publications scientifiques liées aux concepts Living Lab et Fab Living Lab : sur le site du LF2L (publications)ou sur le wiki ERPI (jusqu'à 2017)
+Nos publications scientifiques liées aux concepts Living Lab et Fab Living Lab : sur le site du LF2L

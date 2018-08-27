@@ -2,38 +2,23 @@
 title: Innovation et santé
 date: 2016-04-20 00:00:00 +0000
 categories: []
-description: A portable device for epileptic patients.
+description: Innovation et santé.
 banner_image: "/uploads/2018/02/17/neurons.jpg"
-sub_heading: ''
+sub_heading: "L'innovation au service de la santé"
 tags:
 - engineering
 - research
 slug: ''
 ---
 
-## Overview
+## L'innovation au service de la Santé et du Bien-Être !
 
-Epilepsy is a brain disorder that affects millions of North Americans. Characterized by abnormal neuronal signaling, symptoms of epilepsy are change in emotion, change in behavior, loss of consciousness, muscle spasms and convulsions.  
+Que faisons nous en lien avec la santé?
 
-Epileptic episodes are very hard to predict, and virtually impossible to accurately record outside of a clinical environment. This project aims to provide a portable device that can be used to measure EEG (electroencephalography) outside of the clinical environment.
+## Evaluation objective des competences techniques des chirurgiens.
+Accompagnement des chrirurgiens dans l'auto-évaluation de leur "performances techniques" par l'utilisation de capteurs physiologiques (e.g. GSR, eye-tracking, ECG).
 
-## Design
-The portable EEG montoring device (PEMD) is a combination platform of a head-mounted recording system and a portable terminal to be installed on any device running the Android operating system.
+## Création de "dry-models" au service de la formation et certification des chirurgiens.
+Nous utilisons les technologies d'impression 3D pour fabriquer des modèles d'entrainements chirurgicaux afin de réduire l'utilisation des animaux et des organes humains. La fabrication de cas et de modèles spécifiques facilite les "standards" pour tous les apprenantes lors de leur evaluation. Par ailleurs, en lien avec la démarche "Green-Fablab", les modèles conçus et utilisés peuvent être recyclés pour en fabriquer de nouveaux et s'inscrire dans un cycle vertueux.
 
-The EEG is monitored and recorded using a series of electrodes built into the head-mounted system. The recordings are processed by a microprocessor from analog to digital format, and then sent to the portable terminal via bluetooth.
-
-## Practical Applications
-- Ambulatory Care
-- Automated response for solitary patients
-- Long-term data collection and analysis
-
-## Team
-
-### Staff
-- [Kellie Brewer](/belkirk-jekyll-demo/about/kellie-brewer/)
-- [Mary Anne Macswain](/belkirk-jekyll-demo/about/mary-ann-macswain/)
-
-### Students
-- Andrew Convington
-- Mark Bradbury
-- Ashley O'Brien
+Pour plus d'information consulter : [Innovation en santé](http://www.lf2l.fr/Sections/Projets/Health-innovation/)

@@ -1,7 +1,7 @@
 ---
 title: PRINCIP -Pôle de Recherche sur l'INnovation et la Capacité à Innover des Pmi
 date: 2018-02-25 19:07:50 +0000
-sub_heading: 'Human centered design in the electric vehicle era '
+sub_heading: "Pole de recherche sur l'innovation"
 banner_image: "/img/projects/chaire-princip/Banner.jpg"
 
 tags:
