@@ -17,7 +17,7 @@ Nous associons à cela deux questions secondaires :
 Quelles sont les compétences et conditions associées pour en permettre l’externalisation ou la mutualisation.
 Quels sont les leviers, les freins, les conditions et les spécificités du développement de co-innovation dans les PMI.
 
-AXE1 Elaboration d’un ou plusieurs modèles définissant la capacité à innover d’une PMI et les conditions de progression par apprentissage :
+## AXE 1 : Elaboration d’un ou plusieurs modèles définissant la capacité à innover d’une PMI et les conditions de progression par apprentissage :
 
 - Identification et caractérisation des compétences managériales et entrepreneuriales spécifiques à la PMI – Elaboration d’un modèle entrepreneurial de « Capacité à Innover ».
 - Identification et caractérisation des compétences opérationnelles à la conduite de l’innovation dans les PMI - Elaboration d’un modèle opérationnel de « Capacité à Innover ».
