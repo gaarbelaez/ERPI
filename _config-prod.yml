@@ -2,7 +2,7 @@ title: Laboratoire ERPI
 short_title: erpi
 description: Site web pour le Laboratoire ERPI 
 baseurl: #"/erpi"
-url: "http://dev-erpi.univ-lorraine.fr"
+url: "http://erpi.univ-lorraine.fr"
 permalink: "/:path/"
 defaults:
   - scope:
